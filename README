@@ -1,0 +1,4 @@
+this folder should be your ~/.vim folder
+
+create a symbolic link from ~/.vimrc to ~/.vim/.vimrc like so:
+ln -s ~/.vim/.vimrc ~/.vimrc
