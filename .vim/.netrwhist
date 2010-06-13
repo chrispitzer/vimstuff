@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/home/chris/src/odfw/django_app/templates/flatpages'
+let g:netrw_dirhist_2='/home/chris/src/odfw/django_app/templates'
+let g:netrw_dirhist_3='/home/chris/src/odfw/django_app/oncorhynchus'
+let g:netrw_dirhist_4='/home/chris/src/odfw/django_app'
+let g:netrw_dirhist_5='/home/chris/src/odfw/django_app/templates'
+let g:netrw_dirhist_6='/home/chris/.vim/plugin/jslint.vim'
+let g:netrw_dirhist_7='/home/chris/src/tenbridges/orb/events/migrations'
+let g:netrw_dirhist_8='/home/chris/src/tenbridges/orb/events'

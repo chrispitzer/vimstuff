@@ -1,0 +1,398 @@
+Downloading/unpacking pep8
+  Getting page http://pypi.python.org/simple/pep8
+  URLs to search for versions for pep8:
+  * http://pypi.python.org/simple/pep8
+  Getting page http://github.com/cburroughs/pep8.py/tree/master
+  Analyzing links from page http://pypi.python.org/simple/pep8/
+    Found link http://pypi.python.org/packages/source/p/pep8/pep8-0.4.2.tar.gz#md5=da8562ef0b18ae9ced210cff742a2d1b (from http://pypi.python.org/simple/pep8/), version: 0.4.2
+    Found link http://pypi.python.org/packages/source/p/pep8/pep8-0.4.tar.gz#md5=58426b5d7f9e4615e128278c9c5732d4 (from http://pypi.python.org/simple/pep8/), version: 0.4
+    Found link http://pypi.python.org/packages/source/p/pep8/pep8-0.4.1.tar.gz#md5=7aea2c03759f7a292f1b6e62a62aaf41 (from http://pypi.python.org/simple/pep8/), version: 0.4.1
+    Found link http://pypi.python.org/packages/source/p/pep8/pep8-0.3.1.tar.gz#md5=4bc81d8de009ca1e8bc5f976448ab7b3 (from http://pypi.python.org/simple/pep8/), version: 0.3.1
+    Skipping link http://github.com/cburroughs/pep8.py/tree/master (from http://pypi.python.org/simple/pep8/); not a file
+    Skipping link http://github.com/cburroughs/pep8.py/ (from http://pypi.python.org/simple/pep8/); unknown archive format: .py
+    Skipping link http://github.com/cburroughs/pep8.py/issues (from http://pypi.python.org/simple/pep8/); not a file
+    Skipping link http://github.com/jcrocholl/pep8/ (from http://pypi.python.org/simple/pep8/); not a file
+    Skipping link http://svn.browsershots.org/trunk/devtools/pep8/ (from http://pypi.python.org/simple/pep8/); not a file
+    Skipping link http://trac.browsershots.org/browser/trunk/devtools/pep8/pep8.py (from http://pypi.python.org/simple/pep8/); unknown archive format: .py
+    Skipping link http://trac.browsershots.org/newticket?component=devtools (from http://pypi.python.org/simple/pep8/); not a file
+    Skipping link http://www.python.org/dev/peps/pep-0008/ (from http://pypi.python.org/simple/pep8/); not a file
+    Skipping link mailto:johann@browsershots.org (from http://pypi.python.org/simple/pep8/); unknown archive format: .org
+    Skipping link mailto:johann@rocholl.net (from http://pypi.python.org/simple/pep8/); unknown archive format: .net
+  Analyzing links from page http://github.com/cburroughs/pep8.py
+    Skipping link http://github.com/opensearch.xml (from http://github.com/cburroughs/pep8.py); unknown archive format: .xml
+    Skipping link http://github.com/fluidicon.png (from http://github.com/cburroughs/pep8.py); unknown archive format: .png
+    Skipping link http://assets3.github.com/stylesheets/bundle_common.css?09cbe6cc30e73d9517a7d8b2b1ca64713ed7edf2 (from http://github.com/cburroughs/pep8.py); unknown archive format: .css
+    Skipping link http://assets2.github.com/stylesheets/bundle_github.css?09cbe6cc30e73d9517a7d8b2b1ca64713ed7edf2 (from http://github.com/cburroughs/pep8.py); unknown archive format: .css
+    Skipping link http://github.com/feeds/cburroughs/commits/pep8.py/master (from http://github.com/cburroughs/pep8.py); not a file
+    Skipping link http://github.com (from http://github.com/cburroughs/pep8.py); not a file
+    Skipping link http://github.com/search (from http://github.com/cburroughs/pep8.py); not a file
+    Skipping link http://github.com/plans (from http://github.com/cburroughs/pep8.py); not a file
+    Skipping link http://github.com/explore (from http://github.com/cburroughs/pep8.py); not a file
+    Skipping link http://github.com/blog (from http://github.com/cburroughs/pep8.py); not a file
+    Skipping link https://github.com/login (from http://github.com/cburroughs/pep8.py); not a file
+    Skipping link http://github.com/cburroughs (from http://github.com/cburroughs/pep8.py); not a file
+    Skipping link http://github.com/cburroughs/pep8.py (from http://github.com/cburroughs/pep8.py); unknown archive format: .py
+    Skipping link https://github.com/cburroughs/pep8.py/edit (from http://github.com/cburroughs/pep8.py); not a file
+    Skipping link http://github.com/cburroughs/pep8.py/toggle_watch (from http://github.com/cburroughs/pep8.py); not a file
+    Skipping link http://github.com/cburroughs/pep8.py/fork (from http://github.com/cburroughs/pep8.py); not a file
+    Skipping link http://github.com/cburroughs/pep8.py/pull_request/ (from http://github.com/cburroughs/pep8.py); not a file
+    Skipping link http://github.com/cburroughs/pep8.py/watchers (from http://github.com/cburroughs/pep8.py); not a file
+    Skipping link http://github.com/cburroughs/pep8.py/network (from http://github.com/cburroughs/pep8.py); not a file
+    Skipping link http://github.com/cburroughs/pep8.py/tree/master (from http://github.com/cburroughs/pep8.py); not a file
+    Skipping link http://github.com/cburroughs/pep8.py/commits/master (from http://github.com/cburroughs/pep8.py); not a file
+    Skipping link http://github.com/cburroughs/pep8.py/issues (from http://github.com/cburroughs/pep8.py); not a file
+    Skipping link http://github.com/cburroughs/pep8.py/downloads (from http://github.com/cburroughs/pep8.py); not a file
+    Skipping link http://wiki.github.com/cburroughs/pep8.py/ (from http://github.com/cburroughs/pep8.py); unknown archive format: .py
+    Skipping link http://github.com/cburroughs/pep8.py/graphs (from http://github.com/cburroughs/pep8.py); not a file
+    Skipping link http://github.com/cburroughs/pep8.py/tree/merge-with-upstream (from http://github.com/cburroughs/pep8.py); not a file
+    Skipping link http://github.com/cburroughs/pep8.py/tree/0.4 (from http://github.com/cburroughs/pep8.py); unknown archive format: .4
+    Skipping link http://github.com/cburroughs/pep8.py/tree/0.3.1 (from http://github.com/cburroughs/pep8.py); unknown archive format: .1
+    Skipping link http://github.com/cburroughs/pep8.py#pledgie_box (from http://github.com/cburroughs/pep8.py); unknown archive format: .py
+    Skipping link http://pledgie.com (from http://github.com/cburroughs/pep8.py); not a file
+    Skipping link http://github.com/cburroughs/pep8.py#readme (from http://github.com/cburroughs/pep8.py); unknown archive format: .py
+    Skipping link http://github.com/jcrocholl/pep8 (from http://github.com/cburroughs/pep8.py); not a file
+    Skipping link http://github.com/cburroughs/git@github.com:cburroughs/pep8.py.git (from http://github.com/cburroughs/pep8.py); unknown archive format: .git
+    Skipping link git://github.com/cburroughs/pep8.py.git (from http://github.com/cburroughs/pep8.py); unknown archive format: .git
+    Skipping link http://github.com/cburroughs/pep8.py.git (from http://github.com/cburroughs/pep8.py); unknown archive format: .git
+    Skipping link http://github.com/cburroughs/pep8.py/commit/422529a947f5d400603104df8ca80fffea47361c (from http://github.com/cburroughs/pep8.py); not a file
+    Skipping link http://github.com/cburroughs/pep8.py/tree/df2d9358cd77d6110fe241e4ec2322c6e71bda14 (from http://github.com/cburroughs/pep8.py); not a file
+    Skipping link http://github.com/cburroughs/pep8.py/commits/master/ (from http://github.com/cburroughs/pep8.py); not a file
+    Skipping link http://github.com/cburroughs/pep8.py/blob/422529a947f5d400603104df8ca80fffea47361c/.gitignore (from http://github.com/cburroughs/pep8.py); not a file
+    Skipping link http://github.com/cburroughs/pep8.py/commit/1a27863902e47fcbc761b9234ad629066a36cb03 (from http://github.com/cburroughs/pep8.py); not a file
+    Skipping link http://github.com/reinout (from http://github.com/cburroughs/pep8.py); not a file
+    Skipping link http://github.com/cburroughs/pep8.py/blob/422529a947f5d400603104df8ca80fffea47361c/CHANGES.txt (from http://github.com/cburroughs/pep8.py); unknown archive format: .txt
+    Skipping link http://github.com/cburroughs/pep8.py/commit/df2d9358cd77d6110fe241e4ec2322c6e71bda14 (from http://github.com/cburroughs/pep8.py); not a file
+    Skipping link http://github.com/cburroughs/pep8.py/blob/422529a947f5d400603104df8ca80fffea47361c/MANIFEST.in (from http://github.com/cburroughs/pep8.py); unknown archive format: .in
+    Skipping link http://github.com/cburroughs/pep8.py/commit/80ab26f490dd4360ae2f73ad5521f2d1336fb87d (from http://github.com/cburroughs/pep8.py); not a file
+    Skipping link http://github.com/cburroughs/pep8.py/blob/422529a947f5d400603104df8ca80fffea47361c/Makefile (from http://github.com/cburroughs/pep8.py); not a file
+    Skipping link http://github.com/cburroughs/pep8.py/commit/21022f0a566db0fcdb47b2e5b31ba247b11432d1 (from http://github.com/cburroughs/pep8.py); not a file
+    Skipping link http://github.com/jcrocholl (from http://github.com/cburroughs/pep8.py); not a file
+    Skipping link http://github.com/cburroughs/pep8.py/blob/422529a947f5d400603104df8ca80fffea47361c/README.rst (from http://github.com/cburroughs/pep8.py); unknown archive format: .rst
+    Skipping link http://github.com/cburroughs/pep8.py/blob/422529a947f5d400603104df8ca80fffea47361c/TODO.txt (from http://github.com/cburroughs/pep8.py); unknown archive format: .txt
+    Skipping link http://github.com/cburroughs/pep8.py/commit/c4b84c03908fad4a238b31df2212818334ebd594 (from http://github.com/cburroughs/pep8.py); not a file
+    Skipping link http://github.com/cburroughs/pep8.py/blob/422529a947f5d400603104df8ca80fffea47361c/pep8.py (from http://github.com/cburroughs/pep8.py); unknown archive format: .py
+    Skipping link http://github.com/cburroughs/pep8.py/commit/4818c5d05f6fa47ef5cbb9ef24f5f1d5578dcbf4 (from http://github.com/cburroughs/pep8.py); not a file
+    Skipping link http://github.com/cburroughs/pep8.py/blob/422529a947f5d400603104df8ca80fffea47361c/setup.py (from http://github.com/cburroughs/pep8.py); unknown archive format: .py
+    Skipping link http://github.com/cburroughs/pep8.py/commit/a0887ff4b47e37796d639091ccf2e16768eca9aa (from http://github.com/cburroughs/pep8.py); not a file
+    Skipping link http://github.com/cburroughs/pep8.py/tree/422529a947f5d400603104df8ca80fffea47361c/testsuite (from http://github.com/cburroughs/pep8.py); not a file
+    Skipping link http://github.com/cburroughs/pep8 (from http://github.com/cburroughs/pep8.py); not a file
+    Skipping link http://support.github.com/ (from http://github.com/cburroughs/pep8.py); not a file
+    Skipping link http://github.com/training (from http://github.com/cburroughs/pep8.py); not a file
+    Skipping link http://github.com/contact (from http://github.com/cburroughs/pep8.py); not a file
+    Skipping link http://develop.github.com (from http://github.com/cburroughs/pep8.py); not a file
+    Skipping link http://twitter.com/github (from http://github.com/cburroughs/pep8.py); not a file
+    Skipping link http://help.github.com (from http://github.com/cburroughs/pep8.py); not a file
+    Skipping link http://github.com/security (from http://github.com/cburroughs/pep8.py); not a file
+    Skipping link http://github.com/site/terms (from http://github.com/cburroughs/pep8.py); not a file
+    Skipping link http://github.com/site/privacy (from http://github.com/cburroughs/pep8.py); not a file
+    Skipping link http://www.rackspace.com%20 (from http://github.com/cburroughs/pep8.py); not a file
+    Skipping link http://www.rackspacecloud.com (from http://github.com/cburroughs/pep8.py); not a file
+    Skipping link http://www.rackspace.com (from http://github.com/cburroughs/pep8.py); not a file
+  Analyzing links from page http://github.com/cburroughs/pep8.py
+    Skipping link http://github.com/opensearch.xml (from http://github.com/cburroughs/pep8.py); unknown archive format: .xml
+    Skipping link http://github.com/fluidicon.png (from http://github.com/cburroughs/pep8.py); unknown archive format: .png
+    Skipping link http://assets3.github.com/stylesheets/bundle_common.css?09cbe6cc30e73d9517a7d8b2b1ca64713ed7edf2 (from http://github.com/cburroughs/pep8.py); unknown archive format: .css
+    Skipping link http://assets2.github.com/stylesheets/bundle_github.css?09cbe6cc30e73d9517a7d8b2b1ca64713ed7edf2 (from http://github.com/cburroughs/pep8.py); unknown archive format: .css
+    Skipping link http://github.com/feeds/cburroughs/commits/pep8.py/master (from http://github.com/cburroughs/pep8.py); not a file
+    Skipping link http://github.com (from http://github.com/cburroughs/pep8.py); not a file
+    Skipping link http://github.com/search (from http://github.com/cburroughs/pep8.py); not a file
+    Skipping link http://github.com/plans (from http://github.com/cburroughs/pep8.py); not a file
+    Skipping link http://github.com/explore (from http://github.com/cburroughs/pep8.py); not a file
+    Skipping link http://github.com/blog (from http://github.com/cburroughs/pep8.py); not a file
+    Skipping link https://github.com/login (from http://github.com/cburroughs/pep8.py); not a file
+    Skipping link http://github.com/cburroughs (from http://github.com/cburroughs/pep8.py); not a file
+    Skipping link http://github.com/cburroughs/pep8.py (from http://github.com/cburroughs/pep8.py); unknown archive format: .py
+    Skipping link https://github.com/cburroughs/pep8.py/edit (from http://github.com/cburroughs/pep8.py); not a file
+    Skipping link http://github.com/cburroughs/pep8.py/toggle_watch (from http://github.com/cburroughs/pep8.py); not a file
+    Skipping link http://github.com/cburroughs/pep8.py/fork (from http://github.com/cburroughs/pep8.py); not a file
+    Skipping link http://github.com/cburroughs/pep8.py/pull_request/ (from http://github.com/cburroughs/pep8.py); not a file
+    Skipping link http://github.com/cburroughs/pep8.py/watchers (from http://github.com/cburroughs/pep8.py); not a file
+    Skipping link http://github.com/cburroughs/pep8.py/network (from http://github.com/cburroughs/pep8.py); not a file
+    Skipping link http://github.com/cburroughs/pep8.py/tree/master (from http://github.com/cburroughs/pep8.py); not a file
+    Skipping link http://github.com/cburroughs/pep8.py/commits/master (from http://github.com/cburroughs/pep8.py); not a file
+    Skipping link http://github.com/cburroughs/pep8.py/issues (from http://github.com/cburroughs/pep8.py); not a file
+    Skipping link http://github.com/cburroughs/pep8.py/downloads (from http://github.com/cburroughs/pep8.py); not a file
+    Skipping link http://wiki.github.com/cburroughs/pep8.py/ (from http://github.com/cburroughs/pep8.py); unknown archive format: .py
+    Skipping link http://github.com/cburroughs/pep8.py/graphs (from http://github.com/cburroughs/pep8.py); not a file
+    Skipping link http://github.com/cburroughs/pep8.py/tree/merge-with-upstream (from http://github.com/cburroughs/pep8.py); not a file
+    Skipping link http://github.com/cburroughs/pep8.py/tree/0.4 (from http://github.com/cburroughs/pep8.py); unknown archive format: .4
+    Skipping link http://github.com/cburroughs/pep8.py/tree/0.3.1 (from http://github.com/cburroughs/pep8.py); unknown archive format: .1
+    Skipping link http://github.com/cburroughs/pep8.py#pledgie_box (from http://github.com/cburroughs/pep8.py); unknown archive format: .py
+    Skipping link http://pledgie.com (from http://github.com/cburroughs/pep8.py); not a file
+    Skipping link http://github.com/cburroughs/pep8.py#readme (from http://github.com/cburroughs/pep8.py); unknown archive format: .py
+    Skipping link http://github.com/jcrocholl/pep8 (from http://github.com/cburroughs/pep8.py); not a file
+    Skipping link http://github.com/cburroughs/git@github.com:cburroughs/pep8.py.git (from http://github.com/cburroughs/pep8.py); unknown archive format: .git
+    Skipping link git://github.com/cburroughs/pep8.py.git (from http://github.com/cburroughs/pep8.py); unknown archive format: .git
+    Skipping link http://github.com/cburroughs/pep8.py.git (from http://github.com/cburroughs/pep8.py); unknown archive format: .git
+    Skipping link http://github.com/cburroughs/pep8.py/commit/422529a947f5d400603104df8ca80fffea47361c (from http://github.com/cburroughs/pep8.py); not a file
+    Skipping link http://github.com/cburroughs/pep8.py/tree/df2d9358cd77d6110fe241e4ec2322c6e71bda14 (from http://github.com/cburroughs/pep8.py); not a file
+    Skipping link http://github.com/cburroughs/pep8.py/commits/master/ (from http://github.com/cburroughs/pep8.py); not a file
+    Skipping link http://github.com/cburroughs/pep8.py/blob/422529a947f5d400603104df8ca80fffea47361c/.gitignore (from http://github.com/cburroughs/pep8.py); not a file
+    Skipping link http://github.com/cburroughs/pep8.py/commit/1a27863902e47fcbc761b9234ad629066a36cb03 (from http://github.com/cburroughs/pep8.py); not a file
+    Skipping link http://github.com/reinout (from http://github.com/cburroughs/pep8.py); not a file
+    Skipping link http://github.com/cburroughs/pep8.py/blob/422529a947f5d400603104df8ca80fffea47361c/CHANGES.txt (from http://github.com/cburroughs/pep8.py); unknown archive format: .txt
+    Skipping link http://github.com/cburroughs/pep8.py/commit/df2d9358cd77d6110fe241e4ec2322c6e71bda14 (from http://github.com/cburroughs/pep8.py); not a file
+    Skipping link http://github.com/cburroughs/pep8.py/blob/422529a947f5d400603104df8ca80fffea47361c/MANIFEST.in (from http://github.com/cburroughs/pep8.py); unknown archive format: .in
+    Skipping link http://github.com/cburroughs/pep8.py/commit/80ab26f490dd4360ae2f73ad5521f2d1336fb87d (from http://github.com/cburroughs/pep8.py); not a file
+    Skipping link http://github.com/cburroughs/pep8.py/blob/422529a947f5d400603104df8ca80fffea47361c/Makefile (from http://github.com/cburroughs/pep8.py); not a file
+    Skipping link http://github.com/cburroughs/pep8.py/commit/21022f0a566db0fcdb47b2e5b31ba247b11432d1 (from http://github.com/cburroughs/pep8.py); not a file
+    Skipping link http://github.com/jcrocholl (from http://github.com/cburroughs/pep8.py); not a file
+    Skipping link http://github.com/cburroughs/pep8.py/blob/422529a947f5d400603104df8ca80fffea47361c/README.rst (from http://github.com/cburroughs/pep8.py); unknown archive format: .rst
+    Skipping link http://github.com/cburroughs/pep8.py/blob/422529a947f5d400603104df8ca80fffea47361c/TODO.txt (from http://github.com/cburroughs/pep8.py); unknown archive format: .txt
+    Skipping link http://github.com/cburroughs/pep8.py/commit/c4b84c03908fad4a238b31df2212818334ebd594 (from http://github.com/cburroughs/pep8.py); not a file
+    Skipping link http://github.com/cburroughs/pep8.py/blob/422529a947f5d400603104df8ca80fffea47361c/pep8.py (from http://github.com/cburroughs/pep8.py); unknown archive format: .py
+    Skipping link http://github.com/cburroughs/pep8.py/commit/4818c5d05f6fa47ef5cbb9ef24f5f1d5578dcbf4 (from http://github.com/cburroughs/pep8.py); not a file
+    Skipping link http://github.com/cburroughs/pep8.py/blob/422529a947f5d400603104df8ca80fffea47361c/setup.py (from http://github.com/cburroughs/pep8.py); unknown archive format: .py
+    Skipping link http://github.com/cburroughs/pep8.py/commit/a0887ff4b47e37796d639091ccf2e16768eca9aa (from http://github.com/cburroughs/pep8.py); not a file
+    Skipping link http://github.com/cburroughs/pep8.py/tree/422529a947f5d400603104df8ca80fffea47361c/testsuite (from http://github.com/cburroughs/pep8.py); not a file
+    Skipping link http://github.com/cburroughs/pep8 (from http://github.com/cburroughs/pep8.py); not a file
+    Skipping link http://support.github.com/ (from http://github.com/cburroughs/pep8.py); not a file
+    Skipping link http://github.com/training (from http://github.com/cburroughs/pep8.py); not a file
+    Skipping link http://github.com/contact (from http://github.com/cburroughs/pep8.py); not a file
+    Skipping link http://develop.github.com (from http://github.com/cburroughs/pep8.py); not a file
+    Skipping link http://twitter.com/github (from http://github.com/cburroughs/pep8.py); not a file
+    Skipping link http://help.github.com (from http://github.com/cburroughs/pep8.py); not a file
+    Skipping link http://github.com/security (from http://github.com/cburroughs/pep8.py); not a file
+    Skipping link http://github.com/site/terms (from http://github.com/cburroughs/pep8.py); not a file
+    Skipping link http://github.com/site/privacy (from http://github.com/cburroughs/pep8.py); not a file
+    Skipping link http://www.rackspace.com%20 (from http://github.com/cburroughs/pep8.py); not a file
+    Skipping link http://www.rackspacecloud.com (from http://github.com/cburroughs/pep8.py); not a file
+    Skipping link http://www.rackspace.com (from http://github.com/cburroughs/pep8.py); not a file
+  Analyzing links from page http://github.com/cburroughs/pep8.py
+    Skipping link http://github.com/opensearch.xml (from http://github.com/cburroughs/pep8.py); unknown archive format: .xml
+    Skipping link http://github.com/fluidicon.png (from http://github.com/cburroughs/pep8.py); unknown archive format: .png
+    Skipping link http://assets3.github.com/stylesheets/bundle_common.css?09cbe6cc30e73d9517a7d8b2b1ca64713ed7edf2 (from http://github.com/cburroughs/pep8.py); unknown archive format: .css
+    Skipping link http://assets2.github.com/stylesheets/bundle_github.css?09cbe6cc30e73d9517a7d8b2b1ca64713ed7edf2 (from http://github.com/cburroughs/pep8.py); unknown archive format: .css
+    Skipping link http://github.com/feeds/cburroughs/commits/pep8.py/master (from http://github.com/cburroughs/pep8.py); not a file
+    Skipping link http://github.com (from http://github.com/cburroughs/pep8.py); not a file
+    Skipping link http://github.com/search (from http://github.com/cburroughs/pep8.py); not a file
+    Skipping link http://github.com/plans (from http://github.com/cburroughs/pep8.py); not a file
+    Skipping link http://github.com/explore (from http://github.com/cburroughs/pep8.py); not a file
+    Skipping link http://github.com/blog (from http://github.com/cburroughs/pep8.py); not a file
+    Skipping link https://github.com/login (from http://github.com/cburroughs/pep8.py); not a file
+    Skipping link http://github.com/cburroughs (from http://github.com/cburroughs/pep8.py); not a file
+    Skipping link http://github.com/cburroughs/pep8.py (from http://github.com/cburroughs/pep8.py); unknown archive format: .py
+    Skipping link https://github.com/cburroughs/pep8.py/edit (from http://github.com/cburroughs/pep8.py); not a file
+    Skipping link http://github.com/cburroughs/pep8.py/toggle_watch (from http://github.com/cburroughs/pep8.py); not a file
+    Skipping link http://github.com/cburroughs/pep8.py/fork (from http://github.com/cburroughs/pep8.py); not a file
+    Skipping link http://github.com/cburroughs/pep8.py/pull_request/ (from http://github.com/cburroughs/pep8.py); not a file
+    Skipping link http://github.com/cburroughs/pep8.py/watchers (from http://github.com/cburroughs/pep8.py); not a file
+    Skipping link http://github.com/cburroughs/pep8.py/network (from http://github.com/cburroughs/pep8.py); not a file
+    Skipping link http://github.com/cburroughs/pep8.py/tree/master (from http://github.com/cburroughs/pep8.py); not a file
+    Skipping link http://github.com/cburroughs/pep8.py/commits/master (from http://github.com/cburroughs/pep8.py); not a file
+    Skipping link http://github.com/cburroughs/pep8.py/issues (from http://github.com/cburroughs/pep8.py); not a file
+    Skipping link http://github.com/cburroughs/pep8.py/downloads (from http://github.com/cburroughs/pep8.py); not a file
+    Skipping link http://wiki.github.com/cburroughs/pep8.py/ (from http://github.com/cburroughs/pep8.py); unknown archive format: .py
+    Skipping link http://github.com/cburroughs/pep8.py/graphs (from http://github.com/cburroughs/pep8.py); not a file
+    Skipping link http://github.com/cburroughs/pep8.py/tree/merge-with-upstream (from http://github.com/cburroughs/pep8.py); not a file
+    Skipping link http://github.com/cburroughs/pep8.py/tree/0.4 (from http://github.com/cburroughs/pep8.py); unknown archive format: .4
+    Skipping link http://github.com/cburroughs/pep8.py/tree/0.3.1 (from http://github.com/cburroughs/pep8.py); unknown archive format: .1
+    Skipping link http://github.com/cburroughs/pep8.py#pledgie_box (from http://github.com/cburroughs/pep8.py); unknown archive format: .py
+    Skipping link http://pledgie.com (from http://github.com/cburroughs/pep8.py); not a file
+    Skipping link http://github.com/cburroughs/pep8.py#readme (from http://github.com/cburroughs/pep8.py); unknown archive format: .py
+    Skipping link http://github.com/jcrocholl/pep8 (from http://github.com/cburroughs/pep8.py); not a file
+    Skipping link http://github.com/cburroughs/git@github.com:cburroughs/pep8.py.git (from http://github.com/cburroughs/pep8.py); unknown archive format: .git
+    Skipping link git://github.com/cburroughs/pep8.py.git (from http://github.com/cburroughs/pep8.py); unknown archive format: .git
+    Skipping link http://github.com/cburroughs/pep8.py.git (from http://github.com/cburroughs/pep8.py); unknown archive format: .git
+    Skipping link http://github.com/cburroughs/pep8.py/commit/422529a947f5d400603104df8ca80fffea47361c (from http://github.com/cburroughs/pep8.py); not a file
+    Skipping link http://github.com/cburroughs/pep8.py/tree/df2d9358cd77d6110fe241e4ec2322c6e71bda14 (from http://github.com/cburroughs/pep8.py); not a file
+    Skipping link http://github.com/cburroughs/pep8.py/commits/master/ (from http://github.com/cburroughs/pep8.py); not a file
+    Skipping link http://github.com/cburroughs/pep8.py/blob/422529a947f5d400603104df8ca80fffea47361c/.gitignore (from http://github.com/cburroughs/pep8.py); not a file
+    Skipping link http://github.com/cburroughs/pep8.py/commit/1a27863902e47fcbc761b9234ad629066a36cb03 (from http://github.com/cburroughs/pep8.py); not a file
+    Skipping link http://github.com/reinout (from http://github.com/cburroughs/pep8.py); not a file
+    Skipping link http://github.com/cburroughs/pep8.py/blob/422529a947f5d400603104df8ca80fffea47361c/CHANGES.txt (from http://github.com/cburroughs/pep8.py); unknown archive format: .txt
+    Skipping link http://github.com/cburroughs/pep8.py/commit/df2d9358cd77d6110fe241e4ec2322c6e71bda14 (from http://github.com/cburroughs/pep8.py); not a file
+    Skipping link http://github.com/cburroughs/pep8.py/blob/422529a947f5d400603104df8ca80fffea47361c/MANIFEST.in (from http://github.com/cburroughs/pep8.py); unknown archive format: .in
+    Skipping link http://github.com/cburroughs/pep8.py/commit/80ab26f490dd4360ae2f73ad5521f2d1336fb87d (from http://github.com/cburroughs/pep8.py); not a file
+    Skipping link http://github.com/cburroughs/pep8.py/blob/422529a947f5d400603104df8ca80fffea47361c/Makefile (from http://github.com/cburroughs/pep8.py); not a file
+    Skipping link http://github.com/cburroughs/pep8.py/commit/21022f0a566db0fcdb47b2e5b31ba247b11432d1 (from http://github.com/cburroughs/pep8.py); not a file
+    Skipping link http://github.com/jcrocholl (from http://github.com/cburroughs/pep8.py); not a file
+    Skipping link http://github.com/cburroughs/pep8.py/blob/422529a947f5d400603104df8ca80fffea47361c/README.rst (from http://github.com/cburroughs/pep8.py); unknown archive format: .rst
+    Skipping link http://github.com/cburroughs/pep8.py/blob/422529a947f5d400603104df8ca80fffea47361c/TODO.txt (from http://github.com/cburroughs/pep8.py); unknown archive format: .txt
+    Skipping link http://github.com/cburroughs/pep8.py/commit/c4b84c03908fad4a238b31df2212818334ebd594 (from http://github.com/cburroughs/pep8.py); not a file
+    Skipping link http://github.com/cburroughs/pep8.py/blob/422529a947f5d400603104df8ca80fffea47361c/pep8.py (from http://github.com/cburroughs/pep8.py); unknown archive format: .py
+    Skipping link http://github.com/cburroughs/pep8.py/commit/4818c5d05f6fa47ef5cbb9ef24f5f1d5578dcbf4 (from http://github.com/cburroughs/pep8.py); not a file
+    Skipping link http://github.com/cburroughs/pep8.py/blob/422529a947f5d400603104df8ca80fffea47361c/setup.py (from http://github.com/cburroughs/pep8.py); unknown archive format: .py
+    Skipping link http://github.com/cburroughs/pep8.py/commit/a0887ff4b47e37796d639091ccf2e16768eca9aa (from http://github.com/cburroughs/pep8.py); not a file
+    Skipping link http://github.com/cburroughs/pep8.py/tree/422529a947f5d400603104df8ca80fffea47361c/testsuite (from http://github.com/cburroughs/pep8.py); not a file
+    Skipping link http://github.com/cburroughs/pep8 (from http://github.com/cburroughs/pep8.py); not a file
+    Skipping link http://support.github.com/ (from http://github.com/cburroughs/pep8.py); not a file
+    Skipping link http://github.com/training (from http://github.com/cburroughs/pep8.py); not a file
+    Skipping link http://github.com/contact (from http://github.com/cburroughs/pep8.py); not a file
+    Skipping link http://develop.github.com (from http://github.com/cburroughs/pep8.py); not a file
+    Skipping link http://twitter.com/github (from http://github.com/cburroughs/pep8.py); not a file
+    Skipping link http://help.github.com (from http://github.com/cburroughs/pep8.py); not a file
+    Skipping link http://github.com/security (from http://github.com/cburroughs/pep8.py); not a file
+    Skipping link http://github.com/site/terms (from http://github.com/cburroughs/pep8.py); not a file
+    Skipping link http://github.com/site/privacy (from http://github.com/cburroughs/pep8.py); not a file
+    Skipping link http://www.rackspace.com%20 (from http://github.com/cburroughs/pep8.py); not a file
+    Skipping link http://www.rackspacecloud.com (from http://github.com/cburroughs/pep8.py); not a file
+    Skipping link http://www.rackspace.com (from http://github.com/cburroughs/pep8.py); not a file
+  Analyzing links from page http://github.com/cburroughs/pep8.py
+    Skipping link http://github.com/opensearch.xml (from http://github.com/cburroughs/pep8.py); unknown archive format: .xml
+    Skipping link http://github.com/fluidicon.png (from http://github.com/cburroughs/pep8.py); unknown archive format: .png
+    Skipping link http://assets3.github.com/stylesheets/bundle_common.css?09cbe6cc30e73d9517a7d8b2b1ca64713ed7edf2 (from http://github.com/cburroughs/pep8.py); unknown archive format: .css
+    Skipping link http://assets2.github.com/stylesheets/bundle_github.css?09cbe6cc30e73d9517a7d8b2b1ca64713ed7edf2 (from http://github.com/cburroughs/pep8.py); unknown archive format: .css
+    Skipping link http://github.com/feeds/cburroughs/commits/pep8.py/master (from http://github.com/cburroughs/pep8.py); not a file
+    Skipping link http://github.com (from http://github.com/cburroughs/pep8.py); not a file
+    Skipping link http://github.com/search (from http://github.com/cburroughs/pep8.py); not a file
+    Skipping link http://github.com/plans (from http://github.com/cburroughs/pep8.py); not a file
+    Skipping link http://github.com/explore (from http://github.com/cburroughs/pep8.py); not a file
+    Skipping link http://github.com/blog (from http://github.com/cburroughs/pep8.py); not a file
+    Skipping link https://github.com/login (from http://github.com/cburroughs/pep8.py); not a file
+    Skipping link http://github.com/cburroughs (from http://github.com/cburroughs/pep8.py); not a file
+    Skipping link http://github.com/cburroughs/pep8.py (from http://github.com/cburroughs/pep8.py); unknown archive format: .py
+    Skipping link https://github.com/cburroughs/pep8.py/edit (from http://github.com/cburroughs/pep8.py); not a file
+    Skipping link http://github.com/cburroughs/pep8.py/toggle_watch (from http://github.com/cburroughs/pep8.py); not a file
+    Skipping link http://github.com/cburroughs/pep8.py/fork (from http://github.com/cburroughs/pep8.py); not a file
+    Skipping link http://github.com/cburroughs/pep8.py/pull_request/ (from http://github.com/cburroughs/pep8.py); not a file
+    Skipping link http://github.com/cburroughs/pep8.py/watchers (from http://github.com/cburroughs/pep8.py); not a file
+    Skipping link http://github.com/cburroughs/pep8.py/network (from http://github.com/cburroughs/pep8.py); not a file
+    Skipping link http://github.com/cburroughs/pep8.py/tree/master (from http://github.com/cburroughs/pep8.py); not a file
+    Skipping link http://github.com/cburroughs/pep8.py/commits/master (from http://github.com/cburroughs/pep8.py); not a file
+    Skipping link http://github.com/cburroughs/pep8.py/issues (from http://github.com/cburroughs/pep8.py); not a file
+    Skipping link http://github.com/cburroughs/pep8.py/downloads (from http://github.com/cburroughs/pep8.py); not a file
+    Skipping link http://wiki.github.com/cburroughs/pep8.py/ (from http://github.com/cburroughs/pep8.py); unknown archive format: .py
+    Skipping link http://github.com/cburroughs/pep8.py/graphs (from http://github.com/cburroughs/pep8.py); not a file
+    Skipping link http://github.com/cburroughs/pep8.py/tree/merge-with-upstream (from http://github.com/cburroughs/pep8.py); not a file
+    Skipping link http://github.com/cburroughs/pep8.py/tree/0.4 (from http://github.com/cburroughs/pep8.py); unknown archive format: .4
+    Skipping link http://github.com/cburroughs/pep8.py/tree/0.3.1 (from http://github.com/cburroughs/pep8.py); unknown archive format: .1
+    Skipping link http://github.com/cburroughs/pep8.py#pledgie_box (from http://github.com/cburroughs/pep8.py); unknown archive format: .py
+    Skipping link http://pledgie.com (from http://github.com/cburroughs/pep8.py); not a file
+    Skipping link http://github.com/cburroughs/pep8.py#readme (from http://github.com/cburroughs/pep8.py); unknown archive format: .py
+    Skipping link http://github.com/jcrocholl/pep8 (from http://github.com/cburroughs/pep8.py); not a file
+    Skipping link http://github.com/cburroughs/git@github.com:cburroughs/pep8.py.git (from http://github.com/cburroughs/pep8.py); unknown archive format: .git
+    Skipping link git://github.com/cburroughs/pep8.py.git (from http://github.com/cburroughs/pep8.py); unknown archive format: .git
+    Skipping link http://github.com/cburroughs/pep8.py.git (from http://github.com/cburroughs/pep8.py); unknown archive format: .git
+    Skipping link http://github.com/cburroughs/pep8.py/commit/422529a947f5d400603104df8ca80fffea47361c (from http://github.com/cburroughs/pep8.py); not a file
+    Skipping link http://github.com/cburroughs/pep8.py/tree/df2d9358cd77d6110fe241e4ec2322c6e71bda14 (from http://github.com/cburroughs/pep8.py); not a file
+    Skipping link http://github.com/cburroughs/pep8.py/commits/master/ (from http://github.com/cburroughs/pep8.py); not a file
+    Skipping link http://github.com/cburroughs/pep8.py/blob/422529a947f5d400603104df8ca80fffea47361c/.gitignore (from http://github.com/cburroughs/pep8.py); not a file
+    Skipping link http://github.com/cburroughs/pep8.py/commit/1a27863902e47fcbc761b9234ad629066a36cb03 (from http://github.com/cburroughs/pep8.py); not a file
+    Skipping link http://github.com/reinout (from http://github.com/cburroughs/pep8.py); not a file
+    Skipping link http://github.com/cburroughs/pep8.py/blob/422529a947f5d400603104df8ca80fffea47361c/CHANGES.txt (from http://github.com/cburroughs/pep8.py); unknown archive format: .txt
+    Skipping link http://github.com/cburroughs/pep8.py/commit/df2d9358cd77d6110fe241e4ec2322c6e71bda14 (from http://github.com/cburroughs/pep8.py); not a file
+    Skipping link http://github.com/cburroughs/pep8.py/blob/422529a947f5d400603104df8ca80fffea47361c/MANIFEST.in (from http://github.com/cburroughs/pep8.py); unknown archive format: .in
+    Skipping link http://github.com/cburroughs/pep8.py/commit/80ab26f490dd4360ae2f73ad5521f2d1336fb87d (from http://github.com/cburroughs/pep8.py); not a file
+    Skipping link http://github.com/cburroughs/pep8.py/blob/422529a947f5d400603104df8ca80fffea47361c/Makefile (from http://github.com/cburroughs/pep8.py); not a file
+    Skipping link http://github.com/cburroughs/pep8.py/commit/21022f0a566db0fcdb47b2e5b31ba247b11432d1 (from http://github.com/cburroughs/pep8.py); not a file
+    Skipping link http://github.com/jcrocholl (from http://github.com/cburroughs/pep8.py); not a file
+    Skipping link http://github.com/cburroughs/pep8.py/blob/422529a947f5d400603104df8ca80fffea47361c/README.rst (from http://github.com/cburroughs/pep8.py); unknown archive format: .rst
+    Skipping link http://github.com/cburroughs/pep8.py/blob/422529a947f5d400603104df8ca80fffea47361c/TODO.txt (from http://github.com/cburroughs/pep8.py); unknown archive format: .txt
+    Skipping link http://github.com/cburroughs/pep8.py/commit/c4b84c03908fad4a238b31df2212818334ebd594 (from http://github.com/cburroughs/pep8.py); not a file
+    Skipping link http://github.com/cburroughs/pep8.py/blob/422529a947f5d400603104df8ca80fffea47361c/pep8.py (from http://github.com/cburroughs/pep8.py); unknown archive format: .py
+    Skipping link http://github.com/cburroughs/pep8.py/commit/4818c5d05f6fa47ef5cbb9ef24f5f1d5578dcbf4 (from http://github.com/cburroughs/pep8.py); not a file
+    Skipping link http://github.com/cburroughs/pep8.py/blob/422529a947f5d400603104df8ca80fffea47361c/setup.py (from http://github.com/cburroughs/pep8.py); unknown archive format: .py
+    Skipping link http://github.com/cburroughs/pep8.py/commit/a0887ff4b47e37796d639091ccf2e16768eca9aa (from http://github.com/cburroughs/pep8.py); not a file
+    Skipping link http://github.com/cburroughs/pep8.py/tree/422529a947f5d400603104df8ca80fffea47361c/testsuite (from http://github.com/cburroughs/pep8.py); not a file
+    Skipping link http://github.com/cburroughs/pep8 (from http://github.com/cburroughs/pep8.py); not a file
+    Skipping link http://support.github.com/ (from http://github.com/cburroughs/pep8.py); not a file
+    Skipping link http://github.com/training (from http://github.com/cburroughs/pep8.py); not a file
+    Skipping link http://github.com/contact (from http://github.com/cburroughs/pep8.py); not a file
+    Skipping link http://develop.github.com (from http://github.com/cburroughs/pep8.py); not a file
+    Skipping link http://twitter.com/github (from http://github.com/cburroughs/pep8.py); not a file
+    Skipping link http://help.github.com (from http://github.com/cburroughs/pep8.py); not a file
+    Skipping link http://github.com/security (from http://github.com/cburroughs/pep8.py); not a file
+    Skipping link http://github.com/site/terms (from http://github.com/cburroughs/pep8.py); not a file
+    Skipping link http://github.com/site/privacy (from http://github.com/cburroughs/pep8.py); not a file
+    Skipping link http://www.rackspace.com%20 (from http://github.com/cburroughs/pep8.py); not a file
+    Skipping link http://www.rackspacecloud.com (from http://github.com/cburroughs/pep8.py); not a file
+    Skipping link http://www.rackspace.com (from http://github.com/cburroughs/pep8.py); not a file
+  Using version 0.4.2 (newest of versions: 0.4.2, 0.4.1, 0.4, 0.3.1)
+  Downloading pep8-0.4.2.tar.gz
+  Downloading from URL http://pypi.python.org/packages/source/p/pep8/pep8-0.4.2.tar.gz#md5=da8562ef0b18ae9ced210cff742a2d1b (from http://pypi.python.org/simple/pep8/)
+  Running setup.py egg_info for package pep8
+    running egg_info
+    creating pip-egg-info/pep8.egg-info
+    writing requirements to pip-egg-info/pep8.egg-info/requires.txt
+    writing pip-egg-info/pep8.egg-info/PKG-INFO
+    writing namespace_packages to pip-egg-info/pep8.egg-info/namespace_packages.txt
+    writing top-level names to pip-egg-info/pep8.egg-info/top_level.txt
+    writing dependency_links to pip-egg-info/pep8.egg-info/dependency_links.txt
+    writing entry points to pip-egg-info/pep8.egg-info/entry_points.txt
+    writing manifest file 'pip-egg-info/pep8.egg-info/SOURCES.txt'
+    warning: manifest_maker: standard file '-c' not found
+    reading manifest file 'pip-egg-info/pep8.egg-info/SOURCES.txt'
+    reading manifest template 'MANIFEST.in'
+    writing manifest file 'pip-egg-info/pep8.egg-info/SOURCES.txt'
+  Source in ./build/pep8 has version 0.4.2, which satisfies requirement pep8
+Requirement already satisfied: setuptools in /usr/lib/python2.6/dist-packages (from pep8)
+Installing collected packages: pep8, setuptools
+  Running setup.py install for pep8
+    Running command /usr/bin/python -c "import setuptools; __file__='/home/chris/.vim/ftplugin/python/build/pep8/setup.py'; execfile('/home/chris/.vim/ftplugin/python/build/pep8/setup.py')" install --single-version-externally-managed --record /tmp/pip-3jF4_h-record/install-record.txt --install-headers /home/chris/.vim/ftplugin/python/lib/include
+    running install
+    running build
+    running build_py
+    creating build
+    creating build/lib.linux-i686-2.6
+    copying pep8.py -> build/lib.linux-i686-2.6
+    running egg_info
+    writing requirements to pep8.egg-info/requires.txt
+    writing pep8.egg-info/PKG-INFO
+    writing namespace_packages to pep8.egg-info/namespace_packages.txt
+    writing top-level names to pep8.egg-info/top_level.txt
+    writing dependency_links to pep8.egg-info/dependency_links.txt
+    writing entry points to pep8.egg-info/entry_points.txt
+    warning: manifest_maker: standard file '-c' not found
+    reading manifest file 'pep8.egg-info/SOURCES.txt'
+    reading manifest template 'MANIFEST.in'
+    writing manifest file 'pep8.egg-info/SOURCES.txt'
+    running install_lib
+    copying build/lib.linux-i686-2.6/pep8.py -> /usr/local/lib/python2.6/dist-packages
+    error: /usr/local/lib/python2.6/dist-packages/pep8.py: Permission denied
+    Complete output from command /usr/bin/python -c "import setuptools; __file__='/home/chris/.vim/ftplugin/python/build/pep8/setup.py'; execfile('/home/chris/.vim/ftplugin/python/build/pep8/setup.py')" install --single-version-externally-managed --record /tmp/pip-3jF4_h-record/install-record.txt --install-headers /home/chris/.vim/ftplugin/python/lib/include:
+    running install
+
+running build
+
+running build_py
+
+creating build
+
+creating build/lib.linux-i686-2.6
+
+copying pep8.py -> build/lib.linux-i686-2.6
+
+running egg_info
+
+writing requirements to pep8.egg-info/requires.txt
+
+writing pep8.egg-info/PKG-INFO
+
+writing namespace_packages to pep8.egg-info/namespace_packages.txt
+
+writing top-level names to pep8.egg-info/top_level.txt
+
+writing dependency_links to pep8.egg-info/dependency_links.txt
+
+writing entry points to pep8.egg-info/entry_points.txt
+
+warning: manifest_maker: standard file '-c' not found
+
+reading manifest file 'pep8.egg-info/SOURCES.txt'
+
+reading manifest template 'MANIFEST.in'
+
+writing manifest file 'pep8.egg-info/SOURCES.txt'
+
+running install_lib
+
+copying build/lib.linux-i686-2.6/pep8.py -> /usr/local/lib/python2.6/dist-packages
+
+error: /usr/local/lib/python2.6/dist-packages/pep8.py: Permission denied
+
+----------------------------------------
+Command /usr/bin/python -c "import setuptools; __file__='/home/chris/.vim/ftplugin/python/build/pep8/setup.py'; execfile('/home/chris/.vim/ftplugin/python/build/pep8/setup.py')" install --single-version-externally-managed --record /tmp/pip-3jF4_h-record/install-record.txt --install-headers /home/chris/.vim/ftplugin/python/lib/include failed with error code 1
+Exception information:
+Traceback (most recent call last):
+  File "/usr/lib/python2.6/dist-packages/pip.py", line 252, in main
+    self.run(options, args)
+  File "/usr/lib/python2.6/dist-packages/pip.py", line 410, in run
+    requirement_set.install(install_options)
+  File "/usr/lib/python2.6/dist-packages/pip.py", line 2017, in install
+    requirement.install(install_options)
+  File "/usr/lib/python2.6/dist-packages/pip.py", line 1515, in install
+    cwd=self.source_dir, filter_stdout=self._filter_install, show_stdout=False)
+  File "/usr/lib/python2.6/dist-packages/pip.py", line 3543, in call_subprocess
+    % (command_desc, proc.returncode))
+InstallationError: Command /usr/bin/python -c "import setuptools; __file__='/home/chris/.vim/ftplugin/python/build/pep8/setup.py'; execfile('/home/chris/.vim/ftplugin/python/build/pep8/setup.py')" install --single-version-externally-managed --record /tmp/pip-3jF4_h-record/install-record.txt --install-headers /home/chris/.vim/ftplugin/python/lib/include failed with error code 1
