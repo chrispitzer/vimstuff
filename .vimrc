@@ -15,9 +15,6 @@ set title
 " The following turns on filetype detection, plugin, and indent
 filetype plugin indent on
 
-" pydiction
-let g:pydiction_location = '~/.vim/pydiction/complete-dict'
-
 " set filetypes for template files
 au BufRead,BufNewFile *.js.tmpl setf javascript
 au BufRead,BufNewFile *.xml.tmpl setf xml
@@ -141,6 +138,9 @@ nmap <C-l> <C-w>l
 " setting up filetypes to use SnipMate with django snippets
 autocmd FileType python set ft=python.django " For SnipMate
 autocmd FileType html set ft=html.django_template " For SnipMate
+
+" pydiction
+let g:pydiction_location = '~/.vim/pydiction/complete-dict'
 
 map <F5> :JSLint<CR>
 
